@@ -1,2 +1,2 @@
-# -java_12_LeonardoHuamaMezarina
+# java_12_LeonardoHuamaMezarina
 Ejercicios y actividades
